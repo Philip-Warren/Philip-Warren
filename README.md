@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Philip</h1>
+<h1 align="center">Hi, I'm Philip</h1>
 <h3 align="center">A passionate developer from England</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=philip-warren&label=Profile%20views&color=0e75b6&style=flat" alt="philip-warren" /> </p>
@@ -9,17 +9,9 @@
 
 - 🔭 I’m currently working on [JavaScript](https://github.com/Philip-Warren/Philip-Warren)
 
-- 🌱 I’m currently learning **Github**
-
 - 👯 I’m looking to collaborate on [New things](https://github.com/Philip-Warren/Philip-Warren)
 
-- 🤝 I’m looking for help with [Advancing my knowledge](https://github.com/Philip-Warren/Philip-Warren)
-
 - 👨‍💻 All of my projects are available at [https://github.com/Philip-Warren](https://github.com/Philip-Warren)
-
-- 💬 Ask me about **My love of C#**
-
-- 📫 How to reach me **philipw27@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/philip-warren-64ba60170/](https://www.linkedin.com/in/philip-warren-64ba60170/)
 
